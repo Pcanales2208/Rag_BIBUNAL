@@ -23,6 +23,5 @@ Este proyecto implementa un sistema de **Generación Aumentada por Recuperación
 | Lectura de PDFs            | `PyPDFLoader` de `langchain`     |
 | División de texto          | `RecursiveCharacterTextSplitter`|
 | LLMs (vía API)             | Gemini, OpenAI, Groq (LLaMA 3)   |
-| UI Web                     | Gradio                           |
 | Evaluación del sistema     | RAGAS                            |
 
